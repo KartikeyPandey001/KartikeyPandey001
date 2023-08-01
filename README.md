@@ -1,4 +1,3 @@
-![logo](https://github.com/KartikeyPandey001/KartikeyPandey001/blob/main/White%20Minimalist%20Profile%20LinkedIn%20Banner.png)
 <div><h1 align="center">Hi 👋, I'm Kartikey Pandey</h1><p align="left"> <img src="https://komarev.com/ghpvc/?username=kartikeypandey001&label=Profile%20views&color=0e75b6&style=flat" alt="kartikeypandey001" /> </p></div>
 
 <h3 align="center">Passionate Software Developer | Problem Solver | Coding Enthusiast 🚀 | Thriving on Challenges | Future-Focused 🌐 | Embracing Innovation | India-based 🇮🇳</h3>
