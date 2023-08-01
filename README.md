@@ -16,7 +16,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/drive/u/0/my-drive](https://drive.google.com/drive/u/0/my-drive)
 
-- ⚡ Fun fact **I think I am funny**
+- ⚡ Fun fact **I think I am funny**😀
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
